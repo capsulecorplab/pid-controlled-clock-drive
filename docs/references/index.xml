@@ -1,6 +1,6 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PID-controlled clock drive – References</title><link>/docs/references/</link><description>Recent content in References on PID-controlled clock drive</description><generator>Hugo -- gohugo.io</generator><atom:link href="/docs/references/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Reference Architecture</title><link>/docs/references/reference-architecture/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/docs/references/reference-architecture/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>PID-controlled clock drive – References</title><link>https://303adastra.github.io/docs/references/</link><description>Recent content in References on PID-controlled clock drive</description><generator>Hugo -- gohugo.io</generator><atom:link href="https://303adastra.github.io/docs/references/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: Reference Architecture</title><link>https://303adastra.github.io/docs/references/reference-architecture/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://303adastra.github.io/docs/references/reference-architecture/</guid><description>
 &lt;div class="imageblock">
 &lt;div class="content">
-&lt;img src="/images/ibd-pid-controlled-clock-drive.svg" alt="ibd pid controlled clock drive" width="1612" height="467">
+&lt;img src="https://303adastra.github.io/images/ibd-pid-controlled-clock-drive.svg" alt="ibd pid controlled clock drive" width="1612" height="467">
 &lt;/div>
 &lt;/div></description></item></channel></rss>
