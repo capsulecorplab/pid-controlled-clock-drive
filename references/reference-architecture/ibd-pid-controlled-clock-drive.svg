@@ -41,7 +41,7 @@ link pwm to drive--><path d="M1258.26,184.17 C1284.9,184.73 1370.27,186.51 1429.
 reverse link ra to gearbox--><path d="M1491,378.59 C1491,375.09 1491,372.33 1491,372.33 C1491,372.33 1491,351.67 1491,351.67 C1491,351.67 1491,350.68 1491,349.13 " fill="none" id="ra&lt;-gearbox" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="1491,383.63,1495,374.63,1491,378.63,1487,374.63,1491,383.63" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[f474ad76e4c9f02b797d5cea3ad4a08e]
 reverse link encoder to ra--><path d="M1325.27,395.06 C1383.25,394.33 1457.51,393.41 1481.86,393.1 " fill="none" id="encoder&lt;-ra" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><polygon fill="#A80036" points="1320.06,395.12,1329.1051,399.0169,1325.0597,395.0629,1329.0137,391.0174,1320.06,395.12" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[39ca404df132807ba61dfd1ec51ead3e]
 link serial_bus_encoder to serial_read_encoder--><path d="M916.5,414.63 C916.5,409.17 916.5,403.33 916.5,403.33 C916.5,403.33 916.5,382.67 916.5,382.67 C916.5,382.67 916.5,381.68 916.5,380.13 " fill="none" id="serial_bus_encoder-serial_read_encoder" style="stroke: #A80036; stroke-width: 1.0;"/><!--MD5=[433bbeae210b26b3d52d53e50919ac58]
-link serial_bus_encoder to encoder--><path d="M925.67,423.31 C959.86,420.41 1093.61,409.08 1177.71,401.96 " fill="none" id="serial_bus_encoder-encoder" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="60" x="1072" y="402.0669">«SPI/I2C»</text><!--MD5=[85032588dc5fb8f992bc0d5605a238ef]
+link serial_bus_encoder to encoder--><path d="M925.67,423.31 C959.86,420.41 1093.61,409.08 1177.71,401.96 " fill="none" id="serial_bus_encoder-encoder" style="stroke: #A80036; stroke-width: 1.0; stroke-dasharray: 7.0,7.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="60" x="1072" y="402.0669">«SPI/I2C»</text><!--MD5=[e01c6a14a9a1403ae43832d0f8682c10]
 @startuml
 left to right direction
 skinparam linetype polyline
@@ -120,7 +120,7 @@ PlantUML version 1.2020.06(Sun Apr 05 07:38:32 CDT 2020)
 (APACHE source distribution)
 Java Runtime: OpenJDK Runtime Environment
 JVM: OpenJDK 64-Bit Server VM
-Java Version: 11.0.7+10-post-Ubuntu-3ubuntu1
+Java Version: 11.0.10+9-Ubuntu-0ubuntu1.20.04
 Operating System: Linux
 Default Encoding: ANSI_X3.4-1968
 Language: en
